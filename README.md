@@ -1,0 +1,3 @@
+# README
+
+Details siehe Projektbeschreibung.

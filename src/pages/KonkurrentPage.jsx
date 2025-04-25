@@ -1,0 +1,1 @@
+// KonkurrentPage component

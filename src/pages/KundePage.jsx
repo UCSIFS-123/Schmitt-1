@@ -1,0 +1,1 @@
+// KundePage component
